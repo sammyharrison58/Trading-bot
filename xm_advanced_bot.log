@@ -1,0 +1,13 @@
+2026-09-26 22:59:36,868 | ERROR   | Init failed: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-09-26 23:01:11,204 | ERROR   | Init failed: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-09-26 23:05:10,789 | ERROR   | Init failed: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-09-27 00:01:59,278 | ERROR   | Init failed: (-10005, 'IPC timeout')
+2026-09-27 00:03:42,736 | ERROR   | Init failed: (-10005, 'IPC timeout')
+2026-09-27 00:06:09,003 | ERROR   | Init failed: (-6, 'Terminal: Authorization failed')
+2026-09-27 00:15:17,340 | ERROR   | Init failed: (-6, 'Terminal: Authorization failed')
+2026-09-27 00:19:21,807 | ERROR   | Init failed: (-6, 'Terminal: Authorization failed')
+2026-09-27 00:23:40,114 | ERROR   | Init failed: (-6, 'Terminal: Authorization failed') | login=168710028 | server=XMGlobalKE-MT5 2 | mt5_path=auto-detect
+2026-09-27 00:23:40,115 | ERROR   | Terminal info: None
+2026-09-27 00:32:14,142 | WARNING | Init attempt failed: (-6, 'Terminal: Authorization failed') | args={'login': 168710028, 'password': 'Harrison11654$', 'server': 'XMGlobalKE-MT5 2'}
+2026-09-27 00:32:14,152 | WARNING | Init attempt failed: (-6, 'Terminal: Authorization failed') | args={}
+2026-09-27 00:32:14,153 | ERROR   | Init failed: (-6, 'Terminal: Authorization failed') | login=168710028 | server=XMGlobalKE-MT5 2 | mt5_path=auto-detect
